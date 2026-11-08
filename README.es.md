@@ -32,7 +32,7 @@ Sin los hooks el tema funciona igual; las ventanas solo conservan tus esquinas d
 
 | Archivo | Para qué sirve |
 | --- | --- |
-| `colors.toml` | La paleta. Omarchy genera con ella la terminal, btop, Neovim, VS Code, la barra y lo demás. Acento `#0076ba`, modo claro. |
+| `colors.toml` | La paleta. Omarchy genera con ella la terminal, btop, Neovim, VS Code, la barra y lo demás. Acento `#0073b7`, modo claro. |
 | `icons.theme` | Iconos: `Yaru-prussiangreen`. |
 | `shape.toml` | Esquinas: 10 px, curvatura 4. |
 | `hyprland.lua` | El mismo borde y esquinas, por si copias la carpeta a mano. |
